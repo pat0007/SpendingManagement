@@ -12,8 +12,8 @@ As a user, I want to be able to track my spending in order to better save money.
 ## UI Sketches
 Empty UI Sketch:
 
-![](images/emptyUI.png)
+<img src="images/emptyUI.png" width="250" >
 
 UI Sketch with Entries:
 
-![](images/UIwithEntries.png)
+<img src="images/UIwithEntries.png" width="250" >
