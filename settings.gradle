@@ -1,0 +1,2 @@
+rootProject.name='Spending Management'
+include ':app'
