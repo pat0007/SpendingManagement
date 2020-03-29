@@ -17,3 +17,6 @@ Empty UI Sketch:
 UI Sketch with Entries:
 
 <img src="images/UIwithEntries.png" width="250" >
+
+## Test Case Video
+File is "testCases.mp4" found in the root folder.
